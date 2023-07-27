@@ -1,7 +1,10 @@
 ### Hi there 👋
 - 🔭 Computational Physicist
 - Currently working on Atomistic spin dynamics simulations, DFT, Micromagnetic simulations, ML/CV, etc
-- Read my Ph.D. thesis from here:  [Micromagnetic simulations of three-dimensional nanoarchitectures](https://github.com/karpathyan/Doctoral_thesis/blob/main/Cheenikundil_Rajgowrav_2021_ED182.pdf "Named link title")
+- Read my Ph.D. thesis from here:  [Micromagnetic simulations of three-dimensional nanoarchitectures](https://github.com/karpathyan/Doctoral_thesis/blob/main/Cheenikundil_Rajgowrav_2021_ED182.pdf "Rajgowrav_cheenikundil_PhD_thesis")
+- [Google Scholar](https://scholar.google.com/citations?user=CGjG_BMAAAAJ&hl=en&oi=ao "google-scholar")
+- [ORCID](https://orcid.org/0000-0001-7842-5218 "orcid")
+  
 
 
   [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/karpathyan)
