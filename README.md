@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 Computational Physicist
-- Currently working on Atomistic spin dynamics simulations, DFT, Micromagnetic simulations, ML/CV etc
+- Currently working on Atomistic spin dynamics simulations, DFT, Micromagnetic simulations, ML/CV, etc
+
+  Read my Ph.D. thesis here: [Micromagnetic simulations of three-dimensional nanoarchitectures] (https://github.com/karpathyan/Doctoral_thesis/blob/main/Cheenikundil_Rajgowrav_2021_ED182.pdf "Named link title")
 
   [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/karpathyan)
   [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/karpathyan)
